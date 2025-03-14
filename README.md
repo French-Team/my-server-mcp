@@ -1,21 +1,10 @@
 # My Server MCP
 
-Serveur MCP pour gérer les interactions avec l'API GitHub.
-
-## Installation
-
+Serveur MCP simple
 ```bash
 git clone https://github.com/French-Team/my-server-mcp.git
 cd my-server-mcp
 npm install
-```
-
-## Configuration
-
-Créez un fichier `.env` à la racine du projet avec les variables suivantes :
-
-```env
-GITHUB_TOKEN=votre_token_github
 ```
 
 ## Démarrage
